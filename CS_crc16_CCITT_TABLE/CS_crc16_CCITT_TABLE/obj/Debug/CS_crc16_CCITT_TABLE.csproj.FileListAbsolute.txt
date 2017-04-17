@@ -1,6 +1,0 @@
-C:\Users\jash\Desktop\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\bin\Debug\CS_crc16_CCITT_TABLE.exe.config
-C:\Users\jash\Desktop\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\bin\Debug\CS_crc16_CCITT_TABLE.exe
-C:\Users\jash\Desktop\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\bin\Debug\CS_crc16_CCITT_TABLE.pdb
-C:\Users\jash\Desktop\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\obj\Debug\CS_crc16_CCITT_TABLE.csprojResolveAssemblyReference.cache
-C:\Users\jash\Desktop\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\obj\Debug\CS_crc16_CCITT_TABLE.exe
-C:\Users\jash\Desktop\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\obj\Debug\CS_crc16_CCITT_TABLE.pdb

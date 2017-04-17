@@ -28,8 +28,19 @@ namespace CS_crc16_CCITT_TABLE
             byte[] bytes = HexToBytes(input);
             string hex = Crc16CcittKermit.ComputeChecksum(bytes).ToString("x2"); ;
             Console.WriteLine("crc16_CCITT_TABLE  =>  "+hex);
-            string hex1 = Crc16.ComputeChecksum(bytes).ToString("x2");
-            Console.WriteLine("Crc16 =>  " + hex1); //c061
+
+            string input1 = "000680010002";
+            byte[] bytes1 = HexToBytes(input1);
+            string hex1 = Crc16CcittKermit.ComputeChecksum(bytes1).ToString("x2"); ;
+            Console.WriteLine("crc16_CCITT_TABLE  =>  " + hex1);
+            //*
+
+            string hex2 = Crc16.calcrc16(bytes).ToString("x2");
+            Console.WriteLine("Crc16 =>  " + hex2);
+
+            string hex3 = Crc16.calcrc16(bytes1).ToString("x2");
+            Console.WriteLine("Crc16 =>  " + hex3);
+            //*/ 
             /*
             //crc16 online
             //https://emn178.github.io/online-tools/crc16.html
