@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace CS_crc16_CCITT_TABLE
 {
-    //資料來源:http://stackoverflow.com/questions/22860356/how-to-generate-a-crc-16-from-c-sharp
     public class Crc16
     {
         //Figure 2.7 – C Language implementation of the CRC calculation
