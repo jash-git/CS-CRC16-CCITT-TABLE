@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\CS-CRC16-CCITT-TABLE\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\bin\Debug\CS_crc16_CCITT_TABLE.exe.config
+C:\Users\jashliao\Desktop\CS-CRC16-CCITT-TABLE\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\bin\Debug\CS_crc16_CCITT_TABLE.exe
+C:\Users\jashliao\Desktop\CS-CRC16-CCITT-TABLE\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\bin\Debug\CS_crc16_CCITT_TABLE.pdb
+C:\Users\jashliao\Desktop\CS-CRC16-CCITT-TABLE\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\obj\Debug\CS_crc16_CCITT_TABLE.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS-CRC16-CCITT-TABLE\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\obj\Debug\CS_crc16_CCITT_TABLE.exe
+C:\Users\jashliao\Desktop\CS-CRC16-CCITT-TABLE\CS_crc16_CCITT_TABLE\CS_crc16_CCITT_TABLE\obj\Debug\CS_crc16_CCITT_TABLE.pdb
